@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harsh-question-app/static/css/main.795adb42.css",
+    "main.js": "/harsh-question-app/static/js/main.f28db679.js",
+    "static/js/787.2472ca4a.chunk.js": "/harsh-question-app/static/js/787.2472ca4a.chunk.js",
+    "index.html": "/harsh-question-app/index.html",
+    "main.795adb42.css.map": "/harsh-question-app/static/css/main.795adb42.css.map",
+    "main.f28db679.js.map": "/harsh-question-app/static/js/main.f28db679.js.map",
+    "787.2472ca4a.chunk.js.map": "/harsh-question-app/static/js/787.2472ca4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795adb42.css",
+    "static/js/main.f28db679.js"
+  ]
+}
